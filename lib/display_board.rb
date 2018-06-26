@@ -4,6 +4,6 @@ def display_board
  1.times{print"\n-----------\n"}
  1.times{print"   |   |   "}
  1.times{print"\n-----------\n"}
- 1.times{print"   |   |   "}
+ 1.times{print"   |   |   \n"}
 end
 
