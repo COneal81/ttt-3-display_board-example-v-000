@@ -6,7 +6,5 @@ def display_board
  1.times{puts"   |   |   "}
  1.times{puts"-----------"}
  1.times{puts"   |   |   "}
-  
-  
 end
 
